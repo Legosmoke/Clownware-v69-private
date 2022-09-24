@@ -959,7 +959,6 @@ local InviteCrash = COB("Utility", {
 	["HoverText"] = "Spam invites other players"
 })
 
-
 local AnticheatDisabler = COB("World", {
 	Name = "AutoWin Clownware v69 private",
 	Function = function(callback) 
@@ -1959,7 +1958,6 @@ function boxnotify(text)
         messagebox(text, "Vape V4", 0)
      end
 end
-
 
 notify("Clownware Private v69 MADE BY GENL Loaded..")
 
